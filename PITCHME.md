@@ -209,8 +209,12 @@ p selected
 - **Require compilers to support C99**
 @ulend
 
+---
+
 ## Even more stuff
 
 See [RubyReferences](https://rubyreferences.github.io/rubychanges/2.7.html)
+
+---
 
 ## That's all
